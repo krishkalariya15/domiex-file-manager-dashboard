@@ -1,0 +1,180 @@
+body {
+    background-color: #FFFFFF;
+
+}
+.navbar {
+    border-bottom: 1px solid #e0e0e0; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.search-bar {
+    max-width: 400px; 
+}
+
+.sidebar {
+    background-color: #ffffff;
+}
+
+.main-content {
+    background-color: #f0f2f5; 
+}
+.list{
+    padding-left: 10px;
+    height: 2000px;
+    
+}
+.page-4{
+    display: flex;
+    gap: 20px;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    width: 225px;
+    
+}
+
+.card-images {
+    background-color: #fff1e5;
+    color: #ff9144;
+    position: relative;
+    left: 80px;
+    
+}
+
+.card-documents {
+    background-color: #e0f0ff; 
+    color: #448aff;
+}
+
+.card-pdf {
+    background-color: #fff9e0; 
+    color: #ffc107;
+    position: relative;
+    right: 80px;
+}
+
+.card-video {
+    background-color: #f5e6ff;
+    color: #a044ff;
+    position: relative;
+    left: 80px;
+    
+}
+
+.card-audio {
+    background-color: #e6f6f5;
+    color: #40c0c8;
+}
+
+.card-others {
+    background-color: #e0f4e1; 
+    color: #38c172;
+    position: relative;
+    right: 80px;
+}
+
+.search-bar .form-control {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.search-bar .input-group-text {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #fff;
+}
+.p3{
+    background-color: white;
+}
+.top-icons i {
+    font-size: 1.25rem;
+    color: #6c757d;
+}
+.p-4{
+    background-color: #FFFFFF;
+}
+
+.nav-link {
+    color: #1974cf !important;
+    padding-left: 10px;
+}
+.nav-item{
+    padding: 10px;
+    background-color: white;
+}
+.flex-column li{
+    list-style: circle;
+    padding-left: 10px;
+}
+.logoo{
+    gap: 40px;
+}
+.card-1{
+    width: 800px;
+    background-color: #f0f2f5;
+    align-items: center;
+    margin: 40px;
+    border: 0.5px solid rgb(206, 204, 204);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card-2{
+    width: 400px;
+    height: 500px;
+    border: 1px solid #d6d6d7;
+    margin: 40px;
+    border-radius: 5px;
+}
+.card-4{
+      width: 500px;
+    height: 500px;
+    border: 1px solid #d6d6d7;
+    margin: 40px;
+    border-radius: 5px;
+}
+.card-3{
+     width: 400px;
+    height: 500px;
+    border: 1px solid #d6d6d7;
+    margin: 40px;
+    border-radius: 5px;
+}
+.header{
+    display: flex;
+    gap: 160px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.header-1{
+    padding-top: 20px;
+
+}
+.others{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.mini{
+    width: 50px;
+}
+.doc{
+  display: flex;
+  gap: 80px;  
+
+}
+.pp1{
+    display: flex;
+    gap: 20px;
+}
+.left-footer{
+    display: flex;
+    gap: 30px;
+    padding-left: 30px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
